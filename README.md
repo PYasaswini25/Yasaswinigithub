@@ -29,3 +29,10 @@ Table 1 | Table 2
 Name |roll no
 
 ![Taj mahal](https://cdn.britannica.com/86/170586-050-AB7FEFAE/Taj-Mahal-Agra-India.jpg)
+* fruits
+ * mango
+ * apple
+
+1. vegetables
+  1. potato
+  2. tomato
