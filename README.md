@@ -12,3 +12,7 @@
 ***is used for both bold and italic*** 
 
 [google](google.com)
+* fruits
+  * mango
+  * apple
+  * banana
