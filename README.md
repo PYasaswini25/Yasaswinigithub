@@ -5,10 +5,10 @@
 #### heading 4
 ##### heading 5
 ###### heading 6
-*italic style of  
+*italic style of*  
 
-**bold style 
+**bold style** 
 
-***is used for both bold and italic 
+***is used for both bold and italic*** 
 
 [google](google.com)
